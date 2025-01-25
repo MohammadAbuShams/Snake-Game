@@ -1,0 +1,34 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #74ABE2, #5563DE);
+    font-family: sans-serif;
+    color: #fff;
+    height: 100%;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  h1 {
+    margin: 1rem;
+    font-size: 2rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  }
+  
+  #gameCanvas {
+    background-color: #333; /* Game area background */
+    border: 2px solid #fff;
+    display: block;
+  }
+  
+  .score, .instructions {
+    margin-top: 1rem;
+    font-size: 1rem;
+  }
+  
