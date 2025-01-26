@@ -4,7 +4,7 @@ A simple yet fun implementation of the classic Snake game, built with **HTML**, 
 
 ---
 
-## Live Demo https://mohammadabushams.github.io/Snake-Game/
+## Live Demo: https://mohammadabushams.github.io/Snake-Game/
 ---
 
 ## Features
